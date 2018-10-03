@@ -1,2 +1,2 @@
 # ScienceManX
-Juego para audiencia escolar - Prototipo Unity
+Juego para audiencia escolar - Prototipo Unity tesis
