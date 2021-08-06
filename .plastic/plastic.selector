@@ -1,0 +1,4 @@
+repository "ScienceMaxX2"
+  path "/"
+    br "/main"
+    co "/main"
