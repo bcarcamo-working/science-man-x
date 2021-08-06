@@ -18,7 +18,7 @@ Puedes descargar unity3d = https://unity3d.com/es/get-unity/download
 
 ### Instalación 🔧
 
-_Una vez que tengas instaldo unity3d puedes descargar el codigo fuente y emular el juego en 2D_
+_Una vez que tengas instalado unity3d puedes descargar el codigo fuente y emular el juego en 2D_
 
 Este proyecto está bajo la Licencia (bcarcamo-working)
 
